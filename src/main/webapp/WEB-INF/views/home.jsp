@@ -13,6 +13,6 @@
 </body>
 <script>
 console.log("aaa");
-    console.log("동훈");
+    console.log("동훈??");
 </script>
 </html>
