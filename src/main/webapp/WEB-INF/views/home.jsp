@@ -1,3 +1,6 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ page session="false" %>
 <html>
@@ -14,5 +17,6 @@
 <script>
 console.log("aaa")
 console.log("김예진")
+console.log("수진")
 </script>
 </html>
