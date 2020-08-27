@@ -12,6 +12,6 @@
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 <script>
-
+console.log("aaa")
 </script>
 </html>
