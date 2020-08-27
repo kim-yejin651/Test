@@ -19,6 +19,7 @@ console.log("aaa")
 console.log("김예진")
 console.log("수진")
 console.log("aaa");
-    console.log("동훈");
+    console.log("동훈??");
+console.log("박상현");
 </script>
 </html>
