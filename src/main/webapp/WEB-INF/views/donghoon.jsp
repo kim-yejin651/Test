@@ -5,14 +5,8 @@
 	<title>Home</title>
 </head>
 <body>
-<h1>
-	Hello world!  
-</h1>
-
-<P>  The time on the server is ${serverTime}. </P>
+donghoon
 </body>
 <script>
-console.log("aaa");
-    console.log("동훈");
 </script>
 </html>
