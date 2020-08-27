@@ -13,5 +13,6 @@
 </body>
 <script>
 console.log("aaa")
+console.log("김예진")
 </script>
 </html>
